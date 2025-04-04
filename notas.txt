@@ -4,3 +4,7 @@ GIT
  
 git init inicia un repositorio
 
+git add -A, para enlistar los elementos que quiero guardar
+
+git commit -m "mensaje de guardado", para indicarle a git que guardar
+
