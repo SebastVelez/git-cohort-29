@@ -1,0 +1,6 @@
+gitbash es una consola para manipular el computador
+
+GIT
+ 
+git init inicia un repositorio
+
